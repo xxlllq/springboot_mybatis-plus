@@ -1,0 +1,4 @@
+spring:
+  #  生成环境读取配置文件
+  profiles:
+    dev

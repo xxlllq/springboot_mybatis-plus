@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<list>
+    <module id="sys">
+        <name>user</name>
+        <name>test_order</name>
+    </module>
+    <module id="test">
+        <name>sd</name>
+        <name>sdsd</name>
+    </module>
+</list>

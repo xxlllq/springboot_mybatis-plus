@@ -3,6 +3,7 @@
     <module id="sys">
         <name>user</name>
         <name>test_order</name>
+        <name>role</name>
     </module>
     <module id="test">
         <name>sd</name>
